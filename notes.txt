@@ -23,4 +23,4 @@ TO DO   **KEEP CHECKING THE ASSIGNMENT!!**
 
 QUESTIONS
 - when to use div vs section
-- how to apply font to class
+- padding on sides of whole page? viewport?

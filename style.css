@@ -1,4 +1,4 @@
-* { border: 2px solid blue;
+* { border: 0px solid blue;
     box-sizing: border-box;
     font-family: 'Open Sans',sans-serif;
     font-family: 'Oswald', sans-serif;
@@ -7,8 +7,14 @@
 .dog-name {
     font-size: large;
 }
-header {font-family: 'Oswald';
-font-size: 40px;}
+header {font-family: 'Open Sans';
+font-size: 20px;
+font-weight: bold;
+color: white;
+background-color: #004175;
+border-bottom: 2px solid #89DEEF;
+padding: 20px}
+
 p { font-size: 12px;
 }
 .intro {font-family: 'Open Sans';
