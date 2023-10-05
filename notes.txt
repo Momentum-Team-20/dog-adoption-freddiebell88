@@ -13,6 +13,7 @@ TO DO   **KEEP CHECKING THE ASSIGNMENT!!**
 5. dogs
     - make traits show up next to each other and add padding and margin with flexbox or display:inline-block
     -change layout with flexbox
+    -add adoption form link
 6. footer
     - make blocks next to each other
     - align height and center text
@@ -20,4 +21,6 @@ TO DO   **KEEP CHECKING THE ASSIGNMENT!!**
     - add background color
     - add bluish filter on images 
 
-
+QUESTIONS
+- when to use div vs section
+- how to apply font to class

@@ -7,3 +7,9 @@
 .dog-name {
     font-size: large;
 }
+header {font-family: 'Oswald';
+font-size: 40px;}
+p { font-size: 12px;
+}
+.intro {font-family: 'Open Sans';
+}
