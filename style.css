@@ -14,8 +14,26 @@ color: white;
 background-color: #004175;
 border-bottom: 2px solid #89DEEF;
 padding: 20px}
-
-p { font-size: 12px;
+.intro {
+    font-family: 'Open Sans';
 }
-.intro {font-family: 'Open Sans';
+
+p {
+    font-size: 12px;
+}
+#adoptable-pets {
+    font-family: 'Open Sans';
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.profile {
+    display: flex;
+    flex-direction:column;
+}
+.dog-photo {
+    height:200px;
+}
+.dog-traits {
+    font-size:smaller;
 }
