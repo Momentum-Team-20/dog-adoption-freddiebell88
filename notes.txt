@@ -22,5 +22,9 @@ TO DO   **KEEP CHECKING THE ASSIGNMENT!!**
     - add bluish filter on images 
 
 QUESTIONS
-- when to use div vs section
 - padding on sides of whole page? viewport?
+- what's up with the fonts?
+
+mentor QUESTIONS
+- traits formatting - why are the rows wrapping?
+- how do I get rid of bullets? Should i not have done ul even though the directions seemed to imply i do?!!?
