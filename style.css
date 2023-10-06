@@ -1,4 +1,4 @@
-* { border: 0px solid blue;
+* { border: 2px solid blue;
     box-sizing: border-box;
     font-family: 'Open Sans',sans-serif;
     font-family: 'Oswald', sans-serif;
@@ -35,5 +35,13 @@ p {
     height:200px;
 }
 .dog-traits {
-    font-size:smaller;
+    font-size: 10px;
+}
+ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.dog-name {
+    font-size: 14px;
 }
