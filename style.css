@@ -80,5 +80,24 @@ p {
     justify-content: flex-start;
 }
 footer {
-    display: inline;
+    display: flex;
+}
+.footer-box {
+    flex: 1 1 0;
+    height: 300px;
+
+}
+.donate {
+    background-image: url(starter_files/images/donate.jpg);
+    /* display: flex; */
+}
+.volunteer {
+    background-image: url(starter_files/images/volunteer.jpg);
+    /* display: flex; */
+    
+}
+.location {
+    background-image: url(starter_files/images/location.png);
+    /* display: flex; */
+
 }
