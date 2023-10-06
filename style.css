@@ -1,4 +1,4 @@
-* { border: 2px solid blue;
+/* * { border: 2px solid blue; */
     box-sizing: border-box;
     font-family: 'Open Sans',sans-serif;
     font-family: 'Oswald', sans-serif;
@@ -33,19 +33,20 @@ p {
 .profile {
     display: flex;
     flex-direction:column;
-    align-items: center;
+    /* align-items: center; */
     flex-wrap: wrap;
-    max-height: 50%;
+    /* max-height: 50%; */
     max-width: 33%;
-
+    margin: 10px;
+    border: 1px solid silver;
 }
 .dog-photo {
     padding: 8px;
     display: flex;
     align-items: flex-start;
     justify-content: center;
-    width: 100%;
-    /* width: 200px; */
+    /* width: 100%; */
+    width: 200px;
     height: auto;
     
 }
@@ -56,10 +57,18 @@ p {
     /* justify-content: flex-start;
     align-content: flex-start; */
 }
-ul {
+
+.trait-list {
     display: flex;
     flex-wrap: wrap;
     justify-content: flex-start;
+    list-style-type: none;
+}
+
+.trait-list li {
+  padding: 5px;
+  margin: 4px;
+  background-color: aqua;
 }
 
 .dog-name {
