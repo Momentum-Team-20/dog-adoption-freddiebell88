@@ -14,6 +14,7 @@ TO DO   **KEEP CHECKING THE ASSIGNMENT!!**
     - make traits show up next to each other and add padding and margin with flexbox or display:inline-block
     -change layout with flexbox
     -add adoption form link
+    ?? photos isn't about alignment but about fill??
 6. footer
     - make blocks next to each other
     - align height and center text
@@ -25,6 +26,5 @@ QUESTIONS
 - padding on sides of whole page? viewport?
 - what's up with the fonts?
 
-mentor QUESTIONS
-- traits formatting - why are the rows wrapping?
+- traits formatting - why aren't the rows wrapping?
 - how do I get rid of bullets? Should i not have done ul even though the directions seemed to imply i do?!!?
