@@ -85,7 +85,9 @@ footer {
 .footer-box {
     flex: 1 1 0;
     height: 300px;
-
+    line-height: 18;
+    color: white;
+    
 }
 .donate {
     background-image: url(starter_files/images/donate.jpg);
