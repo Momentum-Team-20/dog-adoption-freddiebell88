@@ -21,10 +21,10 @@ TO DO   **KEEP CHECKING THE ASSIGNMENT!!**
     - center blocks vertically
     - add background color
     - add bluish filter on images 
+7. edit padding to just adoptable pets section
 
 QUESTIONS
-- padding on sides of whole page? viewport?
+
 - what's up with the fonts?
 
-- traits formatting - why aren't the rows wrapping?
-- how do I get rid of bullets? Should i not have done ul even though the directions seemed to imply i do?!!?
+
