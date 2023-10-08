@@ -91,15 +91,18 @@ footer {
     
 }
 .donate {
+    text-align: center;
     background-image: url(starter_files/images/donate.jpg);
     /* display: flex; */
 }
 .volunteer {
+    text-align: center;
     background-image: url(starter_files/images/volunteer.jpg);
     /* display: flex; */
     
 }
 .location {
+    text-align: center;
     background-image: url(starter_files/images/location.png);
     /* display: flex; */
 
