@@ -85,29 +85,33 @@ footer {
 }
 .footer-box {
     flex: 1 1 0;
-    height: 300px;
-    line-height: 18;
+    height: 260px;
+    line-height: 12;
     color: white;
-    
+    font-size: 24px;
+    text-align: center;
 }
 .donate {
-    text-align: center;
-    background-image: url(starter_files/images/donate.jpg);
-    /* display: flex; */
+    background: linear-gradient(
+        rgba(0,0,255,0.3),
+        rgba(0,0,255,0.3)
+        ),
+        url(starter_files/images/donate.jpg)
+
 }
 .volunteer {
-    text-align: center;
-    background-image: url(starter_files/images/volunteer.jpg);
-    /* display: flex; */
+    background: linear-gradient(
+        rgba(0,0,255,0.3),
+        rgba(0,0,255,0.3)
+        ),
+        url(starter_files/images/volunteer.jpg)
     
 }
 .location {
-    text-align: center;
-    background-image: url(starter_files/images/location.png);
-    /* display: flex; */
+    background: linear-gradient(
+        rgba(0,0,255,0.3),
+        rgba(0,0,255,0.3)
+        ),
+        url(starter_files/images/location.png)
 
-}
-.tinted-image {
-    /* background: linear-gradient(rgba(255, 0, 0, 0.45),
-    rgba(255, 0, 0, 0.45)) */
 }
