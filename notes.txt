@@ -1,0 +1,30 @@
+TO DO   **KEEP CHECKING THE ASSIGNMENT!!**
+~commit every step~
+
+1. make the dog section
+    -add names
+    -add images
+    -add traits
+2. add footer text
+
+4. header 
+    - background and text color
+    - padding and border
+5. dogs
+    - make traits show up next to each other and add padding and margin with flexbox or display:inline-block
+    -change layout with flexbox
+    -add adoption form link
+    ?? photos isn't about alignment but about fill??
+6. footer
+    - make blocks next to each other
+    - align height and center text
+    - center blocks vertically
+    - add background color
+    - add bluish filter on images 
+7. edit padding to just adoptable pets section
+
+QUESTIONS
+
+- what's up with the fonts?
+
+

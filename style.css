@@ -1,0 +1,117 @@
+* { font-family: 'Open Sans',sans-serif;
+    font-family: 'Oswald', sans-serif;
+    }
+
+body {
+    padding-inline: 120px;
+}
+.dog-name {
+    font-size: large;
+}
+header {font-family: 'Open Sans';
+font-size: 20px;
+font-weight: bold;
+color: white;
+background-color: #004175;
+border-bottom: 2px solid #89DEEF;
+padding: 20px}
+.intro {
+    font-family: 'Open Sans';
+    font-weight: lighter;
+}
+
+p {
+    font-size: 12px;
+}
+#adoptable-pets {
+    font-family: 'Open Sans';
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-content: flex-start;
+}
+.profile {
+    display: flex;
+    flex-direction:column;
+    /* align-items: center; */
+    max-height: 800px;
+    max-width: 270px;
+    padding: 4px;
+    /* flex-wrap: wrap; */
+    
+
+}
+.dog-photo {
+    /* padding: 8px; */
+    display: block;
+    width: 100%;
+    
+}
+.dog-traits {
+    font-size: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-content: flex-start;
+}
+.trait-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    list-style-type: none;
+    padding: 0;
+}
+.trait-list li {
+    padding: 5px;
+    margin: 4px;
+    background-color: #89DEEF;
+    border-radius: 10px;
+}
+/* ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+} */
+
+.dog-name {
+    font-size: 14px;
+    display: flex;
+    justify-content: flex-start;
+}
+footer {
+    display: flex;
+    background-color: #A6A9F0;
+}
+.footer-box {
+    flex: 1 1 0;
+    height: 260px;
+    line-height: 12;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+}
+.donate {
+    background: linear-gradient(
+        rgba(0,0,255,0.3),
+        rgba(0,0,255,0.3)
+        ),
+        url(starter_files/images/donate.jpg)
+
+}
+.volunteer {
+    background: linear-gradient(
+        rgba(0,0,255,0.3),
+        rgba(0,0,255,0.3)
+        ),
+        url(starter_files/images/volunteer.jpg)
+    
+}
+.location {
+    background: linear-gradient(
+        rgba(0,0,255,0.3),
+        rgba(0,0,255,0.3)
+        ),
+        url(starter_files/images/location.png)
+
+}
